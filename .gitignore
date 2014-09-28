@@ -1,5 +1,6 @@
-﻿a.out
-
+﻿#ingore
 *test*
 
 *.swp
+
+a.out
